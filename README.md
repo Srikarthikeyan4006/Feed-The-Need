@@ -58,7 +58,8 @@ for creating mobile and web applications. Data is stored as JSON and synchronize
 in realtime to every connected client.
 
 DART
-    Dart is a programming language developed by Google designed for
+
+   Dart is a programming language developed by Google designed for
 client development,such as web and mobile apps.And also used to build server
 and desktop applications.It is an object-oriented, class-based language with C-style
 syntax. Dart can compile to either native code or JavaScript. It supports interfaces,
@@ -66,20 +67,23 @@ mixins, abstract classes,and type inference etc.
 
 
 GOOGLE API
-    Google APIs are application programming interfaces (APIs) developed
+
+   Google APIs are application programming interfaces (APIs) developed
 by Google which provide communication with the Google Services and their
 integration to other services.Third-party apps can use these APIs to take advantage
 or to extend the functionality of the existing services.
 
 RNN(LSTM)
-    Long short-term memory (LSTM) is an artificial recurrent neural
+
+   Long short-term memory (LSTM) is an artificial recurrent neural
 network (RNN) architecture used in the field of deep learning. LSTM networks
 are well-suited to classifying, processing and making predictions based on time
 series data, since there can be lags of unknown duration between important
 events in a time series.
 
 WEB SCRAPPING
-    Web Scrapping is an automatic method to obtain large amounts of
+
+   Web Scrapping is an automatic method to obtain large amounts of
 data from websites. Most of this data is unstructured data in an HTML format
 which is then converted into structured data in a spreadsheet or a database so that
 it can be used in various applications. There are many different ways to perform
