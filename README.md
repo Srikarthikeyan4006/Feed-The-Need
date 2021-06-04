@@ -42,7 +42,8 @@ Windows, and the web from a single codebase.Flutter provides
 
 
 COLAB
-     Google Colab is a free notebook environment which runs entirely
+
+   Google Colab is a free notebook environment which runs entirely
 in the cloud environment and it is a powerful platform for learning and quickly
 developing machine learning models in Python and also for data analytics.Colab
 supports many popular ML libraries such as PyTorch, TensorFlow, Keras and
